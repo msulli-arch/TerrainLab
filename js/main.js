@@ -24,7 +24,7 @@ function createMap() {
 	});
 	//create the basemap control layer*/
     var baseLayers = {
-		"Standard": standardBasemap,
+		"Sattelite": standardBasemap,
         "DEM": customeBasemap
     };
     
